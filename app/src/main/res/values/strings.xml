@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_con_password_hint">Confirm Password</string>
+
+</resources>
+
